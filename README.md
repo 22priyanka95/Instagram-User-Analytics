@@ -1,8 +1,8 @@
 # Instagram-User-Analytics
-Project Description
+Project Description:-
 User analysis is the process by which we track how users engage and interact with our digital product in an attempt to drive business insights for marketing, product and development teams. These insights are then used by teams across the business to launch a new marketing campaign, decide on features to build for an app, track the sucess of the app by measuring user engagement and improve the experience altogether while helping the buisness grow. You are working with the product team of Instagram and the product manager has asked you to provide insights on the questins asked by the management team.
 
-Approach
+Approach:-
 we are working with the product team of Instagram and the product manager has asked us to provide insights on the questions asked by the management team. We use SQL to drive different insights from the database provided by the management team. First, we run the necessary commands for creating the database to work on. Then, we performed analysis to generate valuable insights for the company.
 
 Working on Dataset :-
@@ -10,24 +10,49 @@ Working on Dataset :-
    ![Screenshot 2024-03-27 165356](https://github.com/22priyanka95/Instagram-User-Analytics/assets/165151181/2f12c964-e9c1-44d9-a400-be3c6175a72c)
 
 
+
+
 2. Instagram Inactive Users:-
    ![image](https://github.com/22priyanka95/Instagram-User-Analytics/assets/165151181/bf6da937-934e-4141-a9c7-fc48ca5de991)
+
+
+
+
+
+
 
 
 3. Contest Winner Declaration:-
    ![image](https://github.com/22priyanka95/Instagram-User-Analytics/assets/165151181/a006adde-1bc5-4e40-b771-400527f56b9e)
 
 
+
+
 4. Hashtag Research:-
    ![image](https://github.com/22priyanka95/Instagram-User-Analytics/assets/165151181/22bddea9-7638-4797-963b-e89b10f212eb)
+
+
+
+
 
 
 5. Ad Campaign launch:-
    ![image](https://github.com/22priyanka95/Instagram-User-Analytics/assets/165151181/ebd47028-caa7-4ad5-931a-4d0cc062c701)
 
 
+
+
+
+
+
 6. Average User posts on Instagram:-
    ![image](https://github.com/22priyanka95/Instagram-User-Analytics/assets/165151181/019f461c-f510-4e59-8f13-ab5ddf2469b7)
+
+
+
+
+
+
 
 
 7. Fake Accounts:-
